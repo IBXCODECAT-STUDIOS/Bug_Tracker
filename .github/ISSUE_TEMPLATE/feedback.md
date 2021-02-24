@@ -2,7 +2,7 @@
 name: Feedback
 about: Issue feedback on a beta.
 title: "[FEEDBACK]"
-labels: ''
+labels: Feedback
 assignees: IBXCODECAT
 
 ---
